@@ -1,5 +1,4 @@
-# PSE em acao 
-## Sistema de Planejamento e Acompanhamento de acoes de Saude na Escola
+# PSE em acao - Sistema de Planejamento e Acompanhamento de acoes de Saude na Escola
 
 Turma: ESOFT2SNB
 
